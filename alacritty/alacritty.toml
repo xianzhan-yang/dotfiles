@@ -1,0 +1,12 @@
+[general]
+import = [ "~/.config/alacritty/colors.toml"]
+
+[window]
+dynamic_padding = true
+
+[font]
+normal = { family = "JetBrainsMonoNerdFont", style = "Regular" }
+size = 10
+
+[env]
+TERM = "xterm-256color"
