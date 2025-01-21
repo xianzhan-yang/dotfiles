@@ -1,0 +1,9 @@
+[env]
+TERM = "xterm-256color"
+[general]
+import = [
+"~/.config/alacritty/colors.toml",
+]
+[font]
+normal = { family = "JetBrainsMonoNerdFont", style= "Regular" }
+size = 10

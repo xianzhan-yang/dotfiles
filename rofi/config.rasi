@@ -1,0 +1,9 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ combi-modi: "window,drun,ssh";
+ show-icons: true;
+ }
+
+//@theme "~/.config/rofi/nord.rasi"
+
+@theme "/home/yang/.local/share/rofi/themes/spotlight-dark.rasi"
