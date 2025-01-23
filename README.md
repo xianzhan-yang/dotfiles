@@ -4,6 +4,10 @@
 sudo pacman -S alacritty feh picom rofi zathura polybar exa starship pulseaudio pulseaudio-alsa
 ```
 
+```
+paru -S nordic-theme
+```
+
 ## Use Configuration Manually
 
 ```
