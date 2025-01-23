@@ -10,7 +10,7 @@ sudo pacman -S alacritty feh picom rofi zathura polybar exa starship
 cp -r dotfiles/{i3,alacritty,picom,polybar,rofi,gtk-3.0,zathura} ~/.config
 ```
 
-## Use Wallpaper
+## Set Wallpaper
 
 ```
 mkdir ~/Pictures
@@ -18,7 +18,7 @@ mkdir ~/Pictures
 cp dotfiles/1.png ~/Pictures
 ```
 
-## Use Bash Configuration
+## Set Bash Configuration
 
 ```
 cp dotfiles/.bashrc ~/
