@@ -1,7 +1,7 @@
 ## Install Basic Packages
 
 ```
-sudo pacman -S alacritty feh picom rofi zathura polybar exa starship
+sudo pacman -S alacritty feh picom rofi zathura polybar exa starship pulseaudio pulseaudio-alsa
 ```
 
 ## Use Configuration Manually
